@@ -4,8 +4,8 @@ body {
         "header header header"
         "nav main aside"
         "nav footer aside";
-    grid-template-rows: 0.3fr 1fr 0.2fr;
-    grid-template-columns: 0.5fr 1fr 0.5fr;
+    grid-template-rows: 25vh 1fr 0.2fr;
+    grid-template-columns: 10vw 75vw 10vw;
     min-height: 100vh;
     margin: 0;
     padding: 0;
